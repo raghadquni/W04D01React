@@ -1,0 +1,14 @@
+.todoItem {
+    width: 70%;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+    border-radius: 1rem;
+}
+
+.close:hover {
+    color: red;
+    cursor: pointer;
+}
